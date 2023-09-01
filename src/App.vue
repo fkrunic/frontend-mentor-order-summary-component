@@ -17,7 +17,7 @@
 export default {
   data() {
     return {
-      bodyClass: ''
+      bodyClass: 'bg-pale-blue font-red-hat'
     };
   },
   mounted() {
