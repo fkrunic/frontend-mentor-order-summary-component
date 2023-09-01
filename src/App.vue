@@ -15,11 +15,11 @@
         <div class="flex flex-row gap-5">
           <img src="./assets/img/icon-music.svg">
           <div class="flex flex-col">
-            <p class="font-bold text-sm">Annual Plan</p>
+            <p class="font-bold text-sm text-dark-blue">Annual Plan</p>
             <p class="text-desaturated-blue text-sm">$59.99/year</p>
           </div>
         </div>
-        <p class="text-xs text-bright-blue underline font-bold">Change</p>
+        <p class="cursor-pointer text-xs text-bright-blue hover:text-blue-purple hover:no-underline underline font-bold">Change</p>
       </div>
       <div class="cursor-pointer bg-bright-blue hover:bg-blue-purple rounded-2xl px-16 py-4 shadow-xl shadow-bright-blue/20">
         <p class="text-white font-bold text-sm">Proceed to Payment</p>
