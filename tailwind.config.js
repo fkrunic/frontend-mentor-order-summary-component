@@ -10,7 +10,8 @@ export default {
       'bright-blue': 'hsl(245, 75%, 52%)',
       'very-pale-blue': 'hsl(225, 100%, 98%)',
       'desaturated-blue': 'hsl(224, 23%, 55%)',
-      'dark-blue': 'hsl(223, 47%, 23%)'
+      'dark-blue': 'hsl(223, 47%, 23%)',
+      white: 'hsl(0, 0%, 100%)'
     },
     screens: {
       desktop: '1440px'
